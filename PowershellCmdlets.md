@@ -90,7 +90,7 @@ PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0}
 (Get-Item -Path ".\" -Verbose).FullName
 ```
 
-##### Get full path the current script
+##### Get full path of current script
 ```PowerShell
 $MyInvocation.MyCommand.Path
 ```
